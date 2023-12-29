@@ -2,15 +2,17 @@
 
 Application Design Project. Winter Semester 2021/22
 
-This project main focuses on Designing an application which will act as an advertising medium for a city.
+This project mainly focuses on Designing an application that will act as an advertising medium for a city.
 The application will divided into different modules and each module will be implemented using a design pattern.
-As a end product we will have an application which is designed using multiple design patterns together.
+As an end product, we will have an application that is integrated using multiple design patterns together.
+
+Please refer to the project report for a more detailed explanation with the class diagram.
 
 # Participants
 
-## Sandesh Gharge ( sg27875 )
+### Sandesh Gharge ( sg27875 )
 
-## Narayani Sachdeva ( ns29110)
+### Narayani Sachdeva ( ns29110)
 
 
 
